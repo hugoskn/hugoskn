@@ -11,11 +11,10 @@ Hands-on Manager, AI-driven, Developer, Architect, SecDevOps, Lean Startupper, D
 <h3> What I work on </h3>
 
 - 🧠 AI Systems that leverage prompt engineering, RAG, Agentic AI Workflows, MCP-based, ML Models, and Foundational Models.
+- 🚀 Fine-tuning: Gemma, Llama, Qwen, and other models
 - 📦 Ready-to-run examples: clone → install → run
 - 🔧 Dev workflows: how to structure agents, handle tools, logs, eval, planning
 - 💬 Chat-with-anything apps: GitHub, Gmail, PDFs, videos, research papers
-- 🚀 Fine-tuning: Gemma, Llama, Qwen, and other models
-- 🧩 Full code-first crash course on Agent Development Kit and OpenAI SDK
 
 <h2> About Me </h2>
 
