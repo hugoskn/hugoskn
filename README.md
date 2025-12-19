@@ -20,7 +20,9 @@ Hands-on Manager, AI-driven, Developer, Architect, SecDevOps, Lean Startupper, D
 
 - 🎯 **Senior AI Engineering Manager** at Multiplica helping developers BUILD, SCALE & GOVERN AI Systems.
 
-- 📚 Author of the <a href="https://www.amazon.com/dp/B0G8V21ZQG" target="_blank">book: </a>"Learning AI Engineering (Fast) - AI Engineering as the new Software Engineering"
+- 📚 Author of the book: </a>"Learning AI Engineering (Fast) - AI Engineering as the new Software Engineering" <a href="https://www.amazon.com/dp/B0G8V21ZQG">
+  <img src="https://img.shields.io/badge/Buy%20on-Amazon-orange?style=for-the-badge&logo=amazon" alt="Buy on Amazon">
+</a>
 
 - 🗞️ Coder of [Medi History AI](http://medihistoryai.com/) that helps people keeping their medical record to understand their health.
 
