@@ -24,7 +24,7 @@ Hands-on Manager, AI-driven, Developer, Architect, SecDevOps, Lean Startupper, D
   <img src="https://img.shields.io/badge/Buy%20on-Amazon-orange?style=for-the-badge&logo=amazon" alt="Buy on Amazon">
 </a>
 
-- 🗞️ Coder of [The RAG Layer](https://theraglayer.com/) that helps business uploading their information for optimized augmented retrieval.
+- 🗞️ Coder of [The Agents Layer](http://theagentslayer.com/) a Managed AI Agents platforms that supports 500 models and 5 Agentic frameworks (so far).
 
 - 🗞️ Coder of [Medi History AI](http://medihistoryai.com/) that helps people keeping their medical record to understand their health.
 
